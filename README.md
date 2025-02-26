@@ -51,4 +51,3 @@ This project highlights the advantages of CNNs over MLPs in image classification
 ## 📜 License  
 This project’s **code** is licensed under the [MIT License](LICENSE).  
 
----
